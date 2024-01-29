@@ -18,3 +18,8 @@ The project simulates a Brick Breaker game where players control a paddle to hit
 
 - **Control the Paddle:** Use keyboard arrow keys or mouse movement to move the paddle horizontally.
 - **Break Bricks:** Aim to break all the bricks using the ball. Each brick might require multiple hits to break.
+
+## Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/guillaume-lambert-5960201b8) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)]([your-portfolio-url](https://glambert55.wixsite.com/my-site)https://glambert55.wixsite.com/my-site)
